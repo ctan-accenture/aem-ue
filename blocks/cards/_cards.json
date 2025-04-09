@@ -16,7 +16,7 @@
       }
     },
     {
-      "title": "Card",
+      "title": "Card Test 123",
       "id": "card",
       "plugins": {
         "xwalk": {
