@@ -40,7 +40,7 @@
           "valueType": "string",
           "name": "image",
           "label": "Image 123",
-          "multi": false
+          "multi": true
         },
         {
           "component": "richtext",
