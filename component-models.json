@@ -152,38 +152,11 @@
         "multi": false
       },
       {
-        "component": "text",
-        "name": "title",
-        "label": "Title"
-      },
-      {
         "component": "richtext",
-        "name": "description",
+        "name": "text",
         "value": "",
-        "label": "Description",
+        "label": "Text",
         "valueType": "string"
-      },
-      {
-        "component": "select",
-        "name": "classes",
-        "value": "",
-        "label": "Variation",
-        "description": "Different Styles",
-        "valueType": "string",
-        "options": [
-          {
-            "name": "Red",
-            "value": "bg-red"
-          },
-          {
-            "name": "Green",
-            "value": "bg-green"
-          },
-          {
-            "name": "Blue",
-            "value": "bg-blue"
-          }
-        ]
       }
     ]
   },
