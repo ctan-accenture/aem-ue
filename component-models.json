@@ -162,28 +162,6 @@
         "value": "",
         "label": "Description",
         "valueType": "string"
-      },
-      {
-        "component": "select",
-        "name": "classes",
-        "value": "",
-        "label": "Style",
-        "description": "Teaser Variations",
-        "valueType": "string",
-        "options": [
-          {
-            "name": "Image Left",
-            "value": "bg-red"
-          },
-          {
-            "name": "Image Top",
-            "value": "bg-green"
-          },
-          {
-            "name": "Image Right",
-            "value": "bg-blue"
-          }
-        ]
       }
     ]
   },
