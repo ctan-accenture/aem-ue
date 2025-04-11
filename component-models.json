@@ -152,10 +152,15 @@
         "multi": false
       },
       {
+        "component": "text",
+        "name": "title",
+        "label": "Title"
+      },
+      {
         "component": "richtext",
-        "name": "text",
+        "name": "description",
         "value": "",
-        "label": "Text",
+        "label": "Description",
         "valueType": "string"
       },
       {
