@@ -167,8 +167,8 @@
         "component": "select",
         "name": "classes",
         "value": "",
-        "label": "Background Color",
-        "description": "The Quote background color",
+        "label": "Variation",
+        "description": "Different Styles",
         "valueType": "string",
         "options": [
           {
