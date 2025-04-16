@@ -157,7 +157,14 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
-      }
+      },
+      {
+        "component": "text",
+        "name": "ImageAlt",
+        "value": "",
+        "label": "ImageAlt",
+        "valueType": "string"
+      }      
     ]
   },
   {
