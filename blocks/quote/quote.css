@@ -5,7 +5,15 @@
     flex-direction: column;
     margin: 1rem 0;
 }
-
+.block.quote.bg-blue {
+    background-color: blue;
+}
+.block.quote.bg-red {
+    background-color: red;
+}
+.block.quote.bg-green {
+    background-color: green;
+}
 .block.quote blockquote {
     margin: 16px;
     text-indent: 0;
@@ -28,3 +36,4 @@
     width: 30px;
     background-color: darkgray;
 }
+
