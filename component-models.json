@@ -173,13 +173,13 @@
       {
         "component": "text",
         "valueType": "string",
-        "name": "tabTitle",
+        "name": "title",
         "label": "Tab Title",
         "multi": false
       },
       {
         "component": "richtext",
-        "name": "tabText",
+        "name": "text",
         "value": "",
         "label": "Tab Text",
         "valueType": "string"
