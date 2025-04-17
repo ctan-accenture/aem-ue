@@ -152,17 +152,36 @@
         "multi": false
       },
       {
+        "component": "text",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Alt Text",
+        "valueType": "string"
+      },
+      {
         "component": "richtext",
         "name": "text",
         "value": "",
         "label": "Text",
         "valueType": "string"
-      },
+      }      
+    ]
+  },
+  {
+    "id": "tab",
+    "fields": [
       {
         "component": "text",
-        "name": "imageAlt",
+        "valueType": "string",
+        "name": "tabTitle",
+        "label": "Tab Title",
+        "multi": false
+      },
+      {
+        "component": "richtext",
+        "name": "tabText",
         "value": "",
-        "label": "Alt Text",
+        "label": "Tab Text",
         "valueType": "string"
       }      
     ]
