@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p153606-e1610127.adobeaemcloud.com/bin/franklin.delivery/ctan-accenture/aem-ue/main"
+    url: "https://author-p154460-e1621077.adobeaemcloud.com/bin/franklin.delivery/ctan-accenture/aem-ue/main"
     type: "markup"
     suffix: ".html"
